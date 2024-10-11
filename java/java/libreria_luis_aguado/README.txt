@@ -1,0 +1,1 @@
+He conseguido hacer todas las partes que pide le ejercicio, pero no me ha dado tiempo a desarrollar nuevas funciones.
